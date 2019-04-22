@@ -1,0 +1,292 @@
+Alistipes finegoldii
+Shigella
+Holdemania
+Lachnobacterium
+Butyrate-producing bacterium PH05YB02
+Solobacterium
+Bacterium ASF500
+Eubacterium eligens
+Bacteroides uniformis
+Coriobacteriaceae
+Clostridium leptum
+Ruminococcus
+Aggregatibacter
+Streptococcus anginosus
+Eubacterium
+Verrucomicrobia
+Erysipelotrichaceae
+Erysipelotrichales
+Bacteroidaceae bacterium Smarlab 3301643
+Haemophilus
+Coprobacillus
+Swine fecal bacterium RF3E-Xyl1
+Clostridiales
+Clostridium spiroforme
+Clostridiales bacterium 80/3
+Erwinia
+Subdoligranulum
+Bacteroides vulgatus
+Oscillibacter
+Butyrate-producing bacterium SS2/1
+Selenomonas
+Bacteroides fragilis
+Roseburia hominis
+Bacterium mpn-isolate group 19
+Tannerella
+Firmicutes
+Coxiellaceae
+Butyrate-producing bacterium SR1/5
+Eggerthella
+Alteromonadaceae
+Papillibacter
+Peptostreptococcaceae
+Faecalibacterium prausnitzii
+Fusobacteria
+Clostridia
+Alistipes
+Clostridiales bacterium A2-162
+Veillonella
+Rumen bacterium R-9
+Nitrospiraceae
+Gammaproteobacteria
+Bacterium B4C2-5
+Rumen bacterium R-7
+Swine fecal bacterium FPC67
+Actinobacillus
+Enterococcus faecalis
+Akkermansia
+Hafnia
+Eubacteriaceae
+Streptococcus mitis
+Bacteroides ovatus
+Human intestinal firmicute CO13
+Sutterella
+Bacterium str. 31285
+Acetonema
+Clostridiaceae bacterium SK061
+Lactobacillus iners
+Bacterium 'New Zealand B'
+Anaerovorax
+Klebsiella
+Klebsiella pneumoniae
+Acinetobacter
+Streptococcaceae
+Sphingomonadaceae
+Tropheryma whipplei
+Butyrate-producing bacterium L1-952
+Bacterium mpn-isolate group 22
+Rickettsiales
+Pectobacterium
+Bifidobacterium catenulatum
+Parabacteroides distasonis
+Clostridium ramosum
+Bacterium MB7-1
+Swine fecal bacterium SD-Pec1
+Cellulomonadaceae
+Oscillospira
+Fusobacterium
+Segmented filamentous bacterium
+Staphylococcus
+Bifidobacterium
+Mastodon intestinal bacterium AN-22-6
+Clostridium innocuum
+Streptococcus vestibularis
+Oligella
+Dehalobacterium
+Prevotella copri
+Pusillimonas
+Oxalobacter formigenes
+Clostridiaceae
+Bacteroides sp. D20
+Promicromonosporaceae
+Pseudomonas
+Atopobium
+Salmonella
+Streptobacillus
+Escherichia
+Gardnerella
+Oxalobacteraceae
+Human intestinal firmicute CO35
+Bacterium ic1391
+Butyrate-producing bacterium L1-810
+Eubacterium tortuosum
+Coprococcus
+Verrucomicrobia bacterium MS-F-88
+Porphyromonadaceae
+Porphyromonas gingivalis
+Bacteroides sp. CJ78
+Desulfotomaculum
+Butyrate-producing bacterium T2-132
+Propionibacterium
+Polyangiaceae
+Prevotellaceae
+Pasteurella
+Lachnospira
+Butyrate-producing bacterium L2-50
+Stenotrophomonas maltophilia
+Parabacteroides
+Comamonadaceae
+Enterobacteriaceae
+Alcaligenaceae
+Dysgonomonas
+Enterococcus
+Gardnerella vaginalis
+Human intestinal firmicute CO19
+Tenericutes
+Butyrate-producing bacterium P607
+Ruminococcus productus
+Megasphaera
+Clostridium coccoides
+Human intestinal firmicute CB47
+Olsenella
+Swine manure pit bacterium PPC108
+Butyrate-producing bacterium PH07BY04
+Desulfobacteraceae
+Bacteroidales
+Clostridium cocleatum
+Human intestinal firmicute CO4
+Clostridia bacterium TSW07CA7
+Shuttleworthia
+Bacterium C15
+Thiotrichaceae
+Fusobacterium nucleatum
+Terrahaemophilus
+Bilophila
+Methanobrevibacter smithii
+Collinsella aerofaciens
+Bacterium G100VIII
+Eubacterium rectale
+Veillonellaceae
+Bacterium ic1258
+Eubacterium hallii
+Peptostreptococcus
+Clostridium difficile
+Bacterium Ba2
+Edwardsiella
+Bacillus
+Bacterium ic1311
+Butyrate-producing bacterium M50/1
+Parabacteroides merdae
+Anaerostipes
+Odoribacter splanchnicus
+Burkholderiales bacterium Smarlab 3302047
+Xanthomonas
+Shigella dysenteriae
+Bacteroides
+Mogibacterium
+Proteobacteria
+Escherichia coli
+Human intestinal firmicute CO2
+Veillonella atypica
+Bacillaceae
+Bacterium ic1379
+Enterobacter aerogenes
+Ruminococcaceae
+Butyrate-producing bacterium SL6/1/1
+Faecalibacterium
+Syntrophobacteraceae
+Bacterium mpn-isolate group 24
+Pantoea
+Vibrio
+Anaerofilum
+Lachnospiraceae
+Streptococcus
+Yersinia
+Aerococcus
+Bacterium mpn-isolate group 27
+Candidate division TM7
+Butyrate-producing bacterium SM4/1
+Roseburia
+Butyrate-producing bacterium SSC/2
+Prevotella
+Staphylococcus epidermidis
+Enterobacter hormaechei
+Lactobacillus
+Butyrate-producing bacterium SR1/1
+Verrucomicrobiaceae
+Bacteroides thetaiotaomicron
+Burkholderia
+Gram-negative bacterium cL10-2b-4
+Streptococcus salivarius
+Bacilli
+Treponema
+Lactococcus
+Serratia
+Lactobacillus salivarius
+Porphyromonas
+Collinsella
+Bacterium mpn-isolate group 5
+Cronobacter
+Bacteroides eggerthii
+Butyrate-producing bacterium ART55/1
+Erysipelothrix
+Bacterium ic1214
+Bacterium 08.96.4
+Butyrate-producing bacterium M104/1
+Alistipes putredinis
+Staphylococcus aureus
+Lysobacter
+Actinobacteria
+Enterobacter
+Enterococcus faecium
+Clostridiaceae bacterium LEMV63
+Propionibacterium acnes
+Helicobacter pylori
+Bacterium ic1292
+Clostridiales bacterium AHT16
+Aeromonadaceae
+Rikenellaceae
+Firmicutes bacterium EG14
+Unidentified bacterium ZF3
+Citrobacter
+Clostridium
+Butyrate-producing bacterium M21/2
+Fusobacteriaceae
+Odoribacter
+Brenneria
+Acidobacteriaceae
+Bacterium ic1296
+Paenibacillaceae
+Atopobium vaginae
+Desulfovibrionaceae
+Dietzia maris
+Anaerotruncus
+Bilophila wadsworthia
+Betaproteobacteria
+Corynebacterium
+Butyrate-producing bacterium PH07AY3
+Bacteroides finegoldii
+Veillonella parvula
+Bovine rumen bacterium JPR13
+Streptococcus parasanguinis
+Veillonella dispar
+Leptotrichia
+Porphyromonas uenonis
+Mannheimia
+Lachnospiraceae bacterium A2
+Mobiluncus
+Dialister
+Human intestinal firmicute CS26
+Phascolarctobacterium
+Clostridiaceae bacterium SH032
+Bacteroidaceae
+Roseburia intestinalis
+Bacterium YE64
+Rumen bacterium 8/94-32
+Butyrate-producing bacterium Ph07AY02
+Bacteroidetes
+Desulfovibrio
+Ruminococcus gnavus
+Bacterium YE62
+Oscillospiraceae bacterium NML 061048
+Haemophilus parainfluenzae
+Swine fecal bacterium FPC70
+Pasteurellaceae
+Actinomyces
+Firmicutes str. C29
+Dorea
+Lactobacillus crispatus
+Clostridiaceae bacterium bSSV31
+Leptotrichia amnionii
+Butyrate-producing bacterium PH07AY5
+Clostridiales bacterium L2-14
